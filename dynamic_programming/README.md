@@ -1,6 +1,6 @@
-CMSI 282 Programming Assignment
+Dynamic Programming - 0/1 Knapsack Problem with Recursion and Memoization
 
-SumoSolver
+SumoSolver.java
 
 Sumo wrestler Keiryō needs to put on weight in a hurry. With money in hand, he heads to a specialty food store where he is confronted with many items, each of which has a cost (in dollars) and a guarantee of the weight (in pounds) that he'll gain if he eats that item. His dilemma is which items to buy so as to maximize his total weight gain. Your Java program, SumoSolver, will help him solve arbitrary instances of this problem via Dynamic Programming.
 
@@ -17,5 +17,3 @@ $48 / 51 pounds
 $49 / 52 pounds
 
 2 items / $97 / 103 pounds
-
-- Use dynamic programming with recursion and memoization
