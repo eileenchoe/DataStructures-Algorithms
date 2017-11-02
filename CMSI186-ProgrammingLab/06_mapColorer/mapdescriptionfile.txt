@@ -1,0 +1,10 @@
+Montenegro,Serbia
+Montenegro,Albania
+Serbia,Bulgaria
+Serbia,Albania
+Serbia,Macedonia
+Albania,Macedonia
+Albania,Greece
+Macedonia,Bulgaria
+Macedonia,Greece
+Bulgaria,Greece
